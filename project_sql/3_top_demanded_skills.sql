@@ -1,5 +1,5 @@
 /*
- Question: What are the most in-demand sills for data analysts?
+ Question: What are the most in-demand skills for data analysts?
  - Join postings to inner join table similar to previous query
  - Identify the top 5 in-demand skills for a data analyst.
  - Focus on all job postings.
