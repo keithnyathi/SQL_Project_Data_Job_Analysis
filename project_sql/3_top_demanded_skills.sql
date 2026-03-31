@@ -20,3 +20,11 @@ GROUP BY
 ORDER BY
     demand_count DESC
 LIMIT 5
+
+/*
+SQL is the absolute leader: With a demand count of 7,291, SQL dominates the requirements. It is clear that database querying remains the foundational skill required for data analysts working in remote environments.
+
+Excel and Python are head-to-head: Excel remains highly relevant with 4,611 mentions, narrowly leading over Python with 4,330 mentions. This reflects that companies heavily value both programmatic analysis and traditional spreadsheet handling.
+
+The Visualization Battle: Tableau is in high demand with 3,745 mentions compared to Power BI's 2,609. Together, they account for 6,354 mentions, highlighting that visual reporting is another pillar of full-stack remote data analytics.
+*/
